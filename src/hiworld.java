@@ -1,6 +1,6 @@
 public class hiworld {
     public static void main(String[] args) {
         System.out.println("hi,");
-        System.out.println("he");
+        System.out.println("he ");
     }
 }
